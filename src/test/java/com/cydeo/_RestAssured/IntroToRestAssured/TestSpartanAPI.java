@@ -1,11 +1,7 @@
-package com.cydeo.Intro;
+package com.cydeo._RestAssured.IntroToRestAssured;
 
 import io.restassured.response.Response;
-import io.restassured.response.ResponseBody;
 import org.junit.jupiter.api.Test;
-
-import java.util.HashMap;
-import java.util.LinkedHashMap;
 
 import static io.restassured.RestAssured.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
